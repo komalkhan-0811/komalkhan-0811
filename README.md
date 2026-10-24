@@ -2,7 +2,7 @@
 
 i'm a software engineering student interested in backend development!
 
-**currently:** looking for [summer 2027 internships]
+**currently:** looking for summer 2027 internships
 
 **reach out to me! →** [linkedin](https://www.linkedin.com/in/komalkhan-mac/) · [komal811kk@gmail.com]
 <!--
