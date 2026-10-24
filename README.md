@@ -1,5 +1,10 @@
-## Hi there 👋
+### hi, i'm komal ✿
 
+i'm a software engineering student interested in backend development!
+
+**currently:** looking for [summer 2027 internships]
+
+**reach out to me! →** [linkedin](https://www.linkedin.com/in/komalkhan-mac/) · [komal811kk@gmail.com]
 <!--
 **komalkhan-0811/komalkhan-0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
